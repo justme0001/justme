@@ -1,6 +1,5 @@
-# justme
-Hello! I am justme
+<h1>Hello! I am justme</h1>
 
-(Noob at Cooding)
+ - (Noob at Cooding)
 
-justme#6689 <- My Discord if you wanna add :D
+ - justme#6689 <- My Discord Tag if you wanna add me :D
