@@ -1,5 +1,9 @@
 <h1>Hello! I am justme</h1>
 
- - (Noob at Cooding)
+ - Noob at Coding
+ - I develop some discord bots in JavaScript
 
- - justme#6689 <- My Discord Tag if you wanna add me :D
+Join my server [here](https://discord.gg/d77e5qStk6) or through the invite given below
+
+<a href="https://discord.gg/d77e5qStk6"><img src="https://invidget.switchblade.xyz/d77e5qStk6"/></a>
+<br><br>
